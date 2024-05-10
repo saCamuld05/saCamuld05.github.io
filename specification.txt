@@ -1,0 +1,27 @@
+10 HTML tags:
+1. <p>
+2. <button>
+3. <h1>, <h2>
+4. <div>
+5. <a>
+6. <input>
+7. <ul>
+8. <li>
+9. <nav>
+10. <article>
+11. <footer>
+12. <br>
+
+5 properites used:
+1. background-color
+2. font-family
+3. padding
+4. margin-bottom
+5. border
+
+JavaScript Implementation: In `login.html`, JavaScript is used to handle form submission and validate login credentials before redirecting the user to
+different pages based on the input.
+
+Bootstrap Implementation: Bootstrap is integrated into all HTML files by linking the Bootstrap CSS file in the `<head>` section. This allows the use of
+Bootstrap's predefined CSS classes to style elements and create responsive layouts throughout the website. Bootstrap classes like container, row, col, btn,
+etc., are used throughout the HTML files to create responsive layouts and style elements such as buttons, navigation bars, and containers.
