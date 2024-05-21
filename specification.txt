@@ -19,9 +19,8 @@
 4. margin-bottom
 5. border
 
-JavaScript Implementation: In `login.html`, JavaScript is used to handle form submission and validate login credentials before redirecting the user to
-different pages based on the input.
+JavaScript Implementation: In `index.html`, JavaScript is used to handle form submission and validate login credentials before redirecting the user to
+different pages based on the input (resume.html or blank.html).
 
 Bootstrap Implementation: Bootstrap is integrated into all HTML files by linking the Bootstrap CSS file in the `<head>` section. This allows the use of
-Bootstrap's predefined CSS classes to style elements and create responsive layouts throughout the website. Bootstrap classes like container, row, col, btn,
-etc., are used throughout the HTML files to create responsive layouts and style elements such as buttons, navigation bars, and containers.
+Bootstrap's predefined CSS classes to style elements and create responsive layouts throughout the website. Bootstrap classes like container, row, col, btn, etc., are used throughout the HTML files to create responsive layouts and style elements such as buttons, navigation bars, and containers.
